@@ -313,7 +313,7 @@ xxl-job 是一个分布式任务调度平台，其核心设计目标是开发迅
 
 好的工具已经备好，希望各位优秀的程序员能够在各个工作利器的加持下，码到成功，码出精彩。更多好用工具可以扫码查看！！👇👇👇
 
-![img](https://picx1.zhimg.com/80/v2-69990b63f40cd51a18704f2219f7a6a2_1440w.png?source=d16d100b)
+![img](https://picx1.zhimg.com/80/v2-f46fb47ad0ac8618cf18a80078616786_1440w.png?source=d16d100b)
 
 
 
